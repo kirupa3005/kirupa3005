@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**kirupa3005/kirupa3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about coding, problem-solving, and building cool projects. 🚀
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+	•	🎓 Studying Computer Science
+	•	🌱 Learning web development, algorithms, and open-source contributions
+	•	💻 Interested in software development and AI/ML
+	•	⚡ Fun fact: I love exploring new technologies and improving my skills every day
+
+⸻
+
+🛠️ Tech Stack
+	•	Languages: Python, C++, JavaScript
+	•	Web: HTML, CSS, React, Node.js
+	•	Databases: MySQL, MongoDB
+	•	Tools: Git, GitHub, VS Code
+
+⸻
+
+📈 GitHub Stats
+
+
+⸻
+
+🌐 Connect With Me
+
+
+⸻
+
+✨ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
